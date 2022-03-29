@@ -22,6 +22,7 @@ content:
     - Administration
     - Visitors
     - Alumni
+    - Founders and management
 design:
   show_interests: false
   show_role: true
