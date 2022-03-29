@@ -7,9 +7,9 @@
 
 appearance:
   theme_day: minimal
-  theme_night: true
+  theme_night:
   font: native
-  font_size: M
+  font_size: L
 
 # SEO
 
@@ -20,12 +20,12 @@ marketing:
     org_name: ''
     description: 'Reinvented muscle volume assessment'
     twitter: 'VolMeter'
-  # analytics:
-  #   google_analytics: ''
-  #   baidu_tongji: ''
-  # verification:
-  #   google: ''
-  #   baidu: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
@@ -89,7 +89,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: true
+      show_logo: false
   map:
     provider: 'mapnik'
     api_key: ''
