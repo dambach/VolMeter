@@ -20,12 +20,12 @@ marketing:
     org_name: ''
     description: 'Reinvented muscle volume assessment'
     twitter: 'VolMeter'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+  # analytics:
+  #   google_analytics: ''
+  #   baidu_tongji: ''
+  # verification:
+  #   google: ''
+  #   baidu: ''
 
 # Site header
 
@@ -89,7 +89,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
     provider: 'mapnik'
     api_key: ''
