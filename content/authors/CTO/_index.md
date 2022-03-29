@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Damien Bachasson
+title: Paul Smith
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Co-funder and Senior Scientific Advisor
+role: Chief Technical Officer
 
 # Organizations/Affiliations
 # organizations:
@@ -70,4 +70,4 @@ user_groups:
   - Founders and management
 ---
 
-Damien Bachasson is ...
+Paul is ...
