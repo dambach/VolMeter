@@ -6,8 +6,7 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
-  VolMeter
+title: VolMeter
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -19,4 +18,4 @@ design:
 
 <br>
 
-**VolMeter** reinvents the assessment of muscle volume in healthcare and research. VoltMeter's patented technology supports various application from the training athletes, rehabilitation, and clinical research.
+**VolMeter** reinvents the assessment of muscle volume in healthcare and research. VoltMeter's patented technology supports various applications from the training athletes, rehabilitation, and clinical research.
