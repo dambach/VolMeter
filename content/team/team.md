@@ -16,9 +16,13 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Founders and management
+    - Executive Team
+    - Engineering and Software Development Team
+    - Scientific Advisors
 design:
   show_interests: false
   show_role: true
   show_social: true
 ---
+	
+Meet our team – a talented and diverse group of scientists, engineers, and specialists in biophysics and muscle health assessment. 

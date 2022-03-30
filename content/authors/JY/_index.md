@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Damien Bachasson
+title: Jean-Yves Hogrel, PhD
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Co-funder and Senior Scientific Advisor
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Founders and management
+  - Scientific Advisors
 ---
 
 Jean-Yves is ...
