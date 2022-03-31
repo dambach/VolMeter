@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Paul Smith
+title: Eva Wallace
 
 # Is this the primary user of the site?
 superuser: false

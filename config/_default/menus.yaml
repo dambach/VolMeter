@@ -4,20 +4,20 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  # - name: Home
-  #   url: home
-  #   weight: 10
-  - name: What is VolMeter ?
-    url: what
+  - name: Home
+    url: ./
+    weight: 5
+  - name: About
+    url: about
+    weight: 10
+  - name: VolMeter for Research
+    url: research
     weight: 20
-  - name: Milestones
-    url: milestones
-    weight: 25
+  - name: VolMeter for Health & Sports
+    url: health
+    weight: 30
   - name: Team 
     url: team
-    weight: 30
-  - name: Applications
-    url: applications
     weight: 40
   # - name: Publications
   #   url: publication

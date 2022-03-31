@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
-  font: Cyberpunk
+  theme_night: 
+  font: Minimal 
   font_size: M
 
 # SEO
@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'Reinvented muscle volume assessment'
+    description: 'High precision muscle volume quantification'
     twitter: 'VolMeter'
   analytics:
     google_analytics: ''
@@ -36,18 +36,18 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    show_search: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+  copyright: 
+    notice: '© {year} VolMeter. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization

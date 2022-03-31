@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jean-Yves Hogrel, PhD
+title: JYH, PhD
 
 # Is this the primary user of the site?
 superuser: false
@@ -70,4 +70,4 @@ user_groups:
   - Scientific Advisors
 ---
 
-Jean-Yves is ...
+JYH is ...

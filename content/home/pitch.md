@@ -6,9 +6,8 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
-title: |
-  Technology Readiness Level
-hero_media: TRL.jpg
+# title:   
+hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,4 +16,4 @@ design:
   css_class:
 ---
 
-The technological readiness level of VolMeter is currently 6. A new version of the VolMeter device is currently under development.
+**VolMeter** reinvents the assessment of muscle volume in healthcare and clinical research. VoltMeter's patented technology supports various applications from sports training, rehabilitation, and clinical research.

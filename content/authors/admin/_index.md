@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Damien Bachasson, PT, PhD
+title: DB, PT, PhD
 
 # Is this the primary user of the site?
 superuser: true
@@ -70,4 +70,4 @@ user_groups:
   -  Scientific Advisors
 ---
 
-Damien Bachasson is ...
+DB is ...
