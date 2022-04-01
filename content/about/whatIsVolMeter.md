@@ -29,7 +29,7 @@ VolMeter is based on the study of the electrical properties of the human body an
 
 ## Why is it better than standard bioelectrical analysis and other approaches ?
 
-Standard bioelectrical analysis is great for the assessment whole body composition however it cannot provide absolute values of muscle volume with a specific region of the body such as thigh or forearm.
+Standard bioelectrical analysis is great for the assessment whole body composition however it cannot provide absolute values of muscle volume within a specific region of the body such as thigh or forearm.
 Local bioelectrical analysis methods do not provide estimations of muscle volume.
 
 ## Patents
@@ -48,7 +48,4 @@ Bachasson D, Ayaz AC, Canal A, Boisserie J, Mosso J, Jean-Amans N, Carlier P, Ca
 
 Bachasson D, Mosso J, Marty B, Carlier P, and Hogrel JY. Estimating thigh muscle volume using bioelectrical impedance analysis with reference to contractile muscle volume assessed by nuclear magnetic resonance imaging. In: World Muscle Society Elsevier, 2018, p. S138-S139.
 
-## Story
-
-...
 
