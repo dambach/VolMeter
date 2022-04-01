@@ -3,12 +3,12 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Technology
+# title: Technology
 # subtitle:
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
 ---
 ## Why assessing muscle volume is important ?
 Muscle volume is strongly related to the strength muscle can produce and is thus a strong determinant of physical capacities. However muscle volume can be reduced in multiple situations such as :
