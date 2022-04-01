@@ -47,5 +47,3 @@ Bachasson D, Ayaz AC, Mosso J, Canal A, Boisserie JM, Araujo ECA, Benveniste O, 
 Bachasson D, Ayaz AC, Canal A, Boisserie J, Mosso J, Jean-Amans N, Carlier P, Caldas E, Reyngoudt H, Marty B, Benveniste O, and Hogrel J. Estimating lean thigh muscle volume using multifrequency serial bioelectrical impedance in patients with muscle atrophy and fatty degeneration. In: Neuromuscul DisordElsevier, 2020, p. S94
 
 Bachasson D, Mosso J, Marty B, Carlier P, and Hogrel JY. Estimating thigh muscle volume using bioelectrical impedance analysis with reference to contractile muscle volume assessed by nuclear magnetic resonance imaging. In: World Muscle Society Elsevier, 2018, p. S138-S139.
-
-
