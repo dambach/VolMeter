@@ -31,19 +31,3 @@ VolMeter is based on the study of the electrical properties of the human body an
 
 Standard bioelectrical analysis is great for the assessment whole body composition however it cannot provide absolute values of muscle volume within a specific region of the body such as thigh or forearm.
 Local bioelectrical analysis methods do not provide estimations of muscle volume.
-
-## Patents
-*Owned by VolMeter*
-
-...
-
-*Exclusively licensed by VolMeter*
-
-...
-
-## Peer-reviewed scientific publications
-Bachasson D, Ayaz AC, Mosso J, Canal A, Boisserie JM, Araujo ECA, Benveniste O, Reyngoudt H, Marty B, Carlier PG, and Hogrel JY. (2021) [Lean regional muscle volume estimates using explanatory bioelectrical models in healthy subjects and patients with muscle wasting](https://doi.org/10.1002/jcsm.12656). _J Cachexia Sarcopenia Muscle_.
-
-Bachasson D, Ayaz AC, Canal A, Boisserie J, Mosso J, Jean-Amans N, Carlier P, Caldas E, Reyngoudt H, Marty B, Benveniste O, and Hogrel J. Estimating lean thigh muscle volume using multifrequency serial bioelectrical impedance in patients with muscle atrophy and fatty degeneration. In: Neuromuscul DisordElsevier, 2020, p. S94
-
-Bachasson D, Mosso J, Marty B, Carlier P, and Hogrel JY. Estimating thigh muscle volume using bioelectrical impedance analysis with reference to contractile muscle volume assessed by nuclear magnetic resonance imaging. In: World Muscle Society Elsevier, 2018, p. S138-S139.
