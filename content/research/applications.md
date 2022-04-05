@@ -12,18 +12,19 @@ design:
 
 ![](research.jpg)
 
-In clinical research, tracking muscle volume is crucial for evaluating the effectiveness of therapies targeting muscle or affecting muscle health. 
+In clinical research, tracking muscle volume is critical for evaluating the effectiveness of therapies targeting muscle or affecting muscle health. VolMeter is currently used in multiple ongoing clinical studies involving patients with various conditions including amyotrophic lateral sclerosis, fascioscapulohumeral muscular dystrophy, spinal muscular atrophy, and hip fracture in the elderly.
 
-  * VolMeter can simplify the conduct of trials
-    * It is easy to standardize and thus easy to use it within multicenter studies
-    * It does not require high expertise or heavy training
-  * VolMeter can reduce the costs of trials 
-    * It is way more cost-effective than other existing methods such DXA or MRI
-    * It may detect small changes thus reducing the sample size required to demonstrate therapeutic efficacy
+VolMeter can simplify the conduct of trials
+  * It is easy to standardize and thus easy to use it within multicenter studies.
+  * It does not require high expertise or heavy training.
+
+VolMeter can reduce the costs of trials 
+  * It is way more cost-effective than other existing methods such DXA or MRI.
+  * It may detect small changes thus reducing the sample size required to demonstrate therapeutic efficacy.
 
 VolMeter may be used by:
-  * Pharmacological companies within clinical studies
-  * Researchers aiming to easily assess muscle volume
+  * Pharmacological companies within clinical studies.
+  * Researchers aiming to easily assess muscle volume.
 
 
 
