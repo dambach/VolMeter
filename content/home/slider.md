@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: Volmeter for Research
+    - title: trophiQ for Research
       content: 
       align: center
       background:
@@ -28,7 +28,7 @@ content:
         # icon_pack: fas
         text: Learn more
         url: ../research/
-    - title: Volmeter for Health and Sport
+    - title: trophiQ for Health and Sport
       content:
       align: center
       background:

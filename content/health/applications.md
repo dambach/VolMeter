@@ -9,22 +9,25 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-## VolMeter for Health
+## trophiQ One for Health
+
 ![](PT.jpg)
 
-Muscle volume recovery is a key objective during rehabilitation. Initial assessment and monitoring of muscle volume with VolMeter allows for improved individualization and more effective interventions. 
+Muscle volume recovery is a key objective during rehabilitation. Initial assessment and monitoring of muscle volume with trophiQ allows for improved individualization and more effective interventions.
 
-VolMeter may be used by:
-  * Physicians
-  * Physical therapists
-  * Other health professionals including nutritionists and occupational therapists  
+trophiQ may be used by:
 
-## VolMeter for Sports
+* Physicians
+* Physical therapists
+* Other health professionals including nutritionists and occupational therapists
+
+## trophiQ One for Sports
+
 ![](sports.jpg)
 
-Muscle volume is a key determinant of sport performance. VolMeter enables optimal training planification and improved results. VolMeter's solution enables to assess the effect of training on muscle volume in specific region. It also allows the detection of muscular inbalance and asymmetries therefore contributing to the prevention of injuries.  
+Muscle volume is a key determinant of sport performance. trophiQ enables optimal training planification and improved results. trophiQ's solution enables to assess the effect of training on muscle volume in specific region. It also allows the detection of muscular inbalance and asymmetries therefore contributing to the prevention of injuries.
 
-VolMeter may be used by:
-  * Personal trainers
-  * Sports professionals
+trophiQ may be used by:
 
+* Personal trainers
+* Sports professionals

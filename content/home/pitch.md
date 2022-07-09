@@ -16,4 +16,4 @@ design:
   css_class:
 ---
 
-**VolMeter** reinvents the assessment of muscle volume in healthcare and clinical research. VoltMeter's patented technology supports various applications from sports training, rehabilitation, and clinical research.
+**trophiQ** reinvents the assessment of muscle volume in healthcare and clinical research. VoltMeter's patented technology supports various applications from sports training, rehabilitation, and clinical research.

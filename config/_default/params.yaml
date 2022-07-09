@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'High precision muscle volume quantification'
-    twitter: 'VolMeter'
+    twitter: 'trophiQ'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright: 
-    notice: '© {year} VolMeter. This work is licensed under {license}'
+    notice: '© {year} trophiQ. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<dambach>/<VolMeter>'
+    url: 'https://github.com/<dambach>/<trophiQ>'
     content_dir: content
     branch: main
   avatar:

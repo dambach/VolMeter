@@ -11,11 +11,11 @@ design:
   columns: '1'
 ---
 ## Patents
-*Owned by VolMeter*
+*Owned by trophiQ*
 
 ...
 
-*Exclusively licensed by VolMeter*
+*Exclusively licensed by trophiQ*
 
 ...
 

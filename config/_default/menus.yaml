@@ -10,10 +10,10 @@ main:
   - name: About
     url: about
     weight: 10
-  - name: VolMeter for Research
+  - name: trophiQ for Research
     url: research
     weight: 20
-  - name: VolMeter for Health & Sports
+  - name: trophiQ for Health & Sports
     url: health
     weight: 30
   - name: Team 

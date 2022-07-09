@@ -24,5 +24,4 @@ design:
   show_role: true
   show_social: true
 ---
-	
-Meet our team – a talented and diverse group of scientists, engineers, and specialists in biophysics and muscle health assessment. 
+Meet our team – a talented and diverse group of scientists, engineers, and specialists in biophysics and muscle health assessment.
