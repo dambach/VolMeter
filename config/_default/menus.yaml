@@ -7,13 +7,13 @@ main:
   - name: Home
     url: ./
     weight: 5
-  - name: About
+  - name: What is 
     url: about
     weight: 10
-  - name: trophiQ for Research
+  - name: Applications for Research
     url: research
     weight: 20
-  - name: trophiQ for Health & Sports
+  - name: Applications for Health & Sports
     url: health
     weight: 30
   - name: Team 

@@ -22,7 +22,7 @@ Muscle volume is strongly related to the strength muscle can produce and is thus
 
 trophiQ One is a technological solution that allows the evaluation and monitoring of volume in a targeted area of the body. Leveraging a patented technology, trophiQ One offers solutions adapted for diagnosis, rehabilitation, sports training and clinical research.
 
-trophiQ One has been demonstrated to produce accurate measurement of muscle volume in reference to magnetic resonnance imaging that is the gold standard method. Importantly, accurate measurement can also be obtained in patients with severe muscle wasting and degeneration such as in inclusion body myositis.
+trophiQ One has been demonstrated to produce accurate measurement of muscle volume in reference to magnetic resonnance imaging that is the gold standard method. Importantly, accurate measurement can also be obtained in patients with severe muscle wasting and degeneration.
 
 ## How trophiQ One works ?
 
