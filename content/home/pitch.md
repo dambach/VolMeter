@@ -15,4 +15,4 @@ design:
   css_style:
   css_class:
 ---
-We are **trophiQ** - a Paris-based company who has reinvented the assessment of muscle volume in healthcare and clinical research. VoltMeter's patented technology supports various applications from sports training, rehabilitation, and clinical research.
+We are **trophiQ** - a Paris-based company who has reinvented the assessment of muscle volume in healthcare and clinical research. trophiQ’s patented technology supports various applications in sports training, rehabilitation, and clinical research.
